@@ -149,6 +149,4 @@ Importantly, **PD-0 and PD-1 showed similar cognitive impairment but distinct EE
 - Metrics included Silhouette drop (ΔSilhouette), and stability loss (quantifed using ARI).
 - Findings:
   - Spectral power features (theta, alpha, beta) contributed most
-  - Signal complexity had moderate importance
-  - Aperiodic exponent contributed least
-  - Sitting condition showed stronger feature separability than walking
+  - Resting-State features contributed more to seperation and stability relative to active-walking features
