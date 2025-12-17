@@ -1,0 +1,26 @@
+----Complexity:
+calc_std: False
+electrodes: []
+embedding_dim: 3
+kmax: 30
+normalize: True
+tau: 1
+
+----Frequency:
+aperiodic_mode: fixed
+electrodes: []
+fooof_accuracy: Empty DataFrame
+Columns: []
+Index: []
+frequency_bands: theta    :   4 -  8  Hz
+alpha    :   8 - 13  Hz
+beta     :  13 - 30  Hz
+gamma    :  30 - 40  Hz
+frequency_range: (4, 40)
+max_n_peaks: inf
+min_peak_height: 0
+min_r_squared: 0
+peak_width_limits: [1, 12]
+samples_per_segment: 1000
+sampling_rate: 250
+
