@@ -1,0 +1,12 @@
+antropy==0.1.6
+EntropyHub==2.0
+joblib==1.3.2
+matplotlib==3.9.2
+mne==1.10.2
+numpy==2.2.5
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.14.1
+seaborn==0.13.2
+tqdm==4.67.1
+umap==0.1.1
