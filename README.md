@@ -47,8 +47,7 @@ scalp EEG features that reflect **spectral slowing, aperiodic activity, and sign
   - Gait speed (single-task, dual-task)
   - Genetic status (LRRK2, GBA)
 
-> Raw EEG data are **not publicly shared**.  
-> The EEG features that were used for the downstream analysis are publicly shared.
+> Raw EEG data are availbalbe via OpenNeuro (ds007526) at https://openneuro.org/datasets/ds007526/versions/1.0.0.  
 
 ---
 
